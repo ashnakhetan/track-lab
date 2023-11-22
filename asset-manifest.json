@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b87698cd.css",
+    "main.js": "/static/js/main.bad99cf3.js",
+    "static/js/787.e9689511.chunk.js": "/static/js/787.e9689511.chunk.js",
+    "static/media/NeverGonnaGiveYouUp.mp3": "/static/media/NeverGonnaGiveYouUp.5443f8893a7e88e5562a.mp3",
+    "index.html": "/index.html",
+    "main.b87698cd.css.map": "/static/css/main.b87698cd.css.map",
+    "main.bad99cf3.js.map": "/static/js/main.bad99cf3.js.map",
+    "787.e9689511.chunk.js.map": "/static/js/787.e9689511.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b87698cd.css",
+    "static/js/main.bad99cf3.js"
+  ]
+}
